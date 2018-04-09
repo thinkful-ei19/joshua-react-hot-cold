@@ -1,0 +1,12 @@
+.board{
+    display: block;
+    border: 1px solid black;
+    margin: auto;
+    padding: 10px;
+    height: 600px;
+    background-color: rgb(31, 37, 61);
+}
+
+.title{
+    margin-left: 280px;
+}

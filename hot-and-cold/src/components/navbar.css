@@ -1,0 +1,14 @@
+.navbar{
+    display: inline-block;
+    height: 30px;
+    width: 95%;
+    margin-top: 0;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    padding: 10px;
+    color: white;
+}
+
+.left{
+    margin-right: 580px;
+}
